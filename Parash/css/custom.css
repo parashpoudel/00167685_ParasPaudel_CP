@@ -1,0 +1,145 @@
+.job{
+	width: 400px;
+	margin-top: 40px;
+	margin-left: 460px;
+	background-color: #8080804a;
+	font-size: 25px;
+
+}
+
+.job:hover{
+	background-color: grey;
+
+}
+
+.company{
+
+	font-size:40px; 
+	margin-top: 30px; 
+	margin-left: 180px; 
+	background-color: #8080804d;
+	width: 1000px;
+	padding: 20px;
+	padding-left: 40px;
+}
+
+.company a{
+	font-size: 20px;
+	padding-left: 80px;
+	padding-right: 40px;
+	color: white;
+	float: right;
+}
+
+.company a:hover{
+	font-size: 20px;
+	padding-left: 80px;
+	color: white;
+	background-color: grey;
+
+}
+.jobdetails{
+
+	font-size:30px; 
+	font-family: serif;
+	margin-top: 60px; 
+	margin-left: 180px; 
+	background-color: #8080804d;
+	width: 1000px;
+	padding: 20px;
+	padding-left: 40px;
+	text-align: center;
+}
+.jobdetails:hover{
+
+	font-size:30px; 
+	font-family: serif;
+	margin-top: 60px; 
+	margin-left: 180px; 
+	background-color: grey;
+	width: 1000px;
+	padding: 20px;
+	padding-left: 40px;
+	text-align: center;
+	color: gold;
+}
+
+.jobdetails a{
+	font-size: 20px;
+	padding-left: 80px;
+	padding-right: 40px;
+	color: white;
+	
+}
+.jobdetails a:hover{
+	font-size: 20px;
+	padding-left: 80px;
+	color: white;
+	background-color: grey;
+
+}
+
+.editjob span{
+	font-size: 40px;
+
+	
+	font-style: oblique;
+	
+}
+
+.editjob {
+	border: double;
+	padding: 10px;
+	font-weight: 500;
+	margin-left: 480px;
+	width: 450px;
+}
+.editjob:hover {
+	border: double;
+	padding: 10px;
+	font-weight: 500;
+	margin-left: 480px;
+	width: 450px;
+	color: white;
+}
+
+.addjob{
+	border: double;
+	padding: 10px;
+	font-weight: 500;
+	margin-left: 480px;
+	width: 450px;
+
+}
+
+.addjob:hover {
+	border: double;
+	padding: 10px;
+	font-weight: 500;
+	margin-left: 480px;
+	width: 450px;
+	color: white;
+}
+
+.addjob span{
+	font-size: 40px;
+
+	
+	font-style: oblique;
+	
+}
+
+.jobs{
+	width: 800px;
+	margin-top: 40px;
+	margin-left: 120px;
+	background-color: #8080804a;
+	font-size: 25px;
+	text-align: center;
+
+}
+
+.jobs:hover{
+	background-color: grey;
+
+}
